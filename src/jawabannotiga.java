@@ -6,7 +6,7 @@ public class jawabannotiga {
     public static String[] Toplevel = new String[90];
     public static String[] Middlelevel = new String[30];
     public static String [] Regularstaff = new String[50];
-    public static String [] Staff = new String[50];
+    public static String [] Staff = new String[30];
 
     public static Scanner inputuser = new Scanner(System.in);
 
